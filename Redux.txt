@@ -1,0 +1,13 @@
+Introdução ao Redux
+Redux é um contêiner de estado previsível para aplicativos JavaScript.
+
+Ele ajuda você a escrever aplicativos que se comportem de forma consistente, 
+sejam executados em diferentes ambientes (cliente, servidor e nativo) e sejam fáceis de testar. 
+Além disso, oferece uma ótima experiência ao desenvolvedor, como edição de código ao vivo combinada 
+com um depurador de viagem no tempo .
+
+Você pode usar Redux junto com React ou com qualquer outra biblioteca de visualização. 
+É minúsculo (2kB, incluindo dependências), mas possui um grande ecossistema de complementos disponíveis.
+
+STORE: Armazém, que contem os estados da aplicação
+UI: Interface consome os estados e através de eventos, como clicar em um botão, dispara uma ação para mudar o estado (login/logout)
